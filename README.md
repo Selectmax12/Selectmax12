@@ -5,8 +5,11 @@
   <a href="https://vk.com/boyara120297">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://t.me/kovat12">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+   <a href="https://www.linkedin.com/in/maxim-boyarko-045237235/">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
   </a>
 </div></div>
    <h1>
